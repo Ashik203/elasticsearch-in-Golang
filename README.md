@@ -61,7 +61,7 @@ WebSite links:
     
     Replicas provide redundant copies of your data to protect against hardware failure and increase capacity to serve read requests
     
-    ## The Elastic stack(ELK)
+    ## The Elastic stack(ELK, E-ElasticSearch L-Logstash K-Kibana)
     
     Elastic Stack, a set of open-source tools for data ingestion, enrichment, storage, analysis, and visualization.
     
